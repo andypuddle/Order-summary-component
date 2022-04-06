@@ -21,11 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/screeenshot.jpg](./screenshot.jpg)
+![./images/screeenshot.JPG](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/ordersummarycomponent-BkMi0Fj75](https://your-solution-url.com)
 - Live Site URL: [https://andypuddle.github.io/Order-summary-component/](https://your-live-site-url.com)
 
 ### Built with
