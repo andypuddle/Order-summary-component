@@ -25,7 +25,7 @@
 
 body{
   height: 100vh;
-  background: url("./images/pattern-background-desktop.svg");
+  background: url("./images/pattern-background-desktop.svg") var(--Pale-blue);
   background-repeat: no-repeat;
   background-size: contain;
   display: flex;
