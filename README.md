@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](https://github.com/andypuddle/Order-summary-component/blob/main/images/screenshot.JPG)
 
 ### Links
 
