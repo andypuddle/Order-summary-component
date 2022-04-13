@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/screeenshot.JPG](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/ordersummarycomponent-BkMi0Fj75](https://your-solution-url.com)
-- Live Site URL: [https://andypuddle.github.io/Order-summary-component/](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/ordersummarycomponent-BkMi0Fj75)
+- Live Site URL: [github](https://andypuddle.github.io/Order-summary-component/)
 
 ### Built with
 
@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/andypuddle](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@andypuddle](https://www.frontendmentor.io/profile/@andypuddle)
